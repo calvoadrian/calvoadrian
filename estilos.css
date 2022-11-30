@@ -1,0 +1,35 @@
+#contenedor {
+  width: 80%;
+  margin: 0 auto;
+  border: 20px ;
+  border-color: blue;
+}
+#cabecera {
+background-color: blue;
+color: white;
+float: middle;
+}
+#menu {
+  float: left;
+  width: 20%;
+  background-color: red;	
+}
+#contenido {
+  float: left;
+  width: 80%;
+background-color: yellow;
+}
+#pie {text-align:center;
+  clear: both;
+background-color: green;
+}
+#img{
+	width: 15%;
+	height: 150px;
+}
+#blanco{
+	color: white;
+}
+#verde{
+	background-color: green;
+}
